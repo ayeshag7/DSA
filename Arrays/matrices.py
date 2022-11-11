@@ -1,3 +1,13 @@
+# Problem Statement: 
+# Using numpy, create two n x n matrices named array1 and array 2, take n and
+# values of matrices as input. Then write functions to perform the following tasks:
+# a. Sum of both matrices
+# b. Multiplication of both matrices
+# c. Sum of left diagonal of both matrices
+# d. Sum of right diagonal of both matrices
+# e. Average of both matrices
+
+
 import numpy as np
 
 
