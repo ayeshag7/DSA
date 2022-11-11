@@ -1,3 +1,10 @@
+"""
+Problem Statement:
+
+Implement tic-tac-toe game using two dimensional list.
+
+"""
+
 import numpy as np
 
 
