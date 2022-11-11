@@ -1,3 +1,21 @@
+"""
+Problem Statement:
+
+Using numpy, create an array to store roll-number and marks of four students for
+three different. Then write functions for each of the following tasks:
+a. Roll number of the students who scored highest marks in each subject?
+b. In which subject each student got highest marks?
+c. Roll number of the students who scored lowest marks in each subject?
+d. In which subject each student got lowest marks?
+e. Average marks of each student.
+f. Roll number of the student who has highest average?
+g. Roll number of the student who has lowest average?
+h. Roll number and total marks of each student.
+
+"""
+
+
+
 import numpy as np
 
 
