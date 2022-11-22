@@ -51,12 +51,3 @@ class LinkedListQueue:
             print(temp.data, "<- ", end=" ")
             temp = temp.next
         print(" ")
-
-
-q = LinkedListQueue()
-q.enqueue(4)
-q.enqueue(5)
-q.enqueue(6)
-q.print_queue()
-q.dequeue()
-q.print_queue()
